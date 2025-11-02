@@ -1,8 +1,8 @@
-site_name: My Project Documentation
+site_name: Mr Chen's Notes 2025
 nav:
   - Home: index.md
 theme:
   name: material
-  
+
 markdown_extensions:
   - abbr
