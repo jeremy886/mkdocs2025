@@ -3,3 +3,5 @@ nav:
   - Home: index.md
 theme:
   name: readthedocs
+markdown_extensions:
+  - abbr
