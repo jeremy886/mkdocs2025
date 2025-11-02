@@ -4,9 +4,10 @@ This is the documentation for my amazing project.
 
 # Glossary Test
 
-*[CI]: Continuous Integration
-*[CD]: Continuous Delivery
-*[MkDocs]: A fast, simple and downright gorgeous static site generator.
+The HTML specification is maintained by the W3C.
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
 
 
 # Mindmap Test
