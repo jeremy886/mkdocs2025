@@ -2,6 +2,7 @@ site_name: My Project Documentation
 nav:
   - Home: index.md
 theme:
-  name: readthedocs
+  name: material
+  
 markdown_extensions:
   - abbr
