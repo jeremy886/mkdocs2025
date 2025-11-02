@@ -1,4 +1,4 @@
-# Welcome to My Docs
+# Welcome to Mr Chen's Docs
 
 This is the documentation for my amazing project.
 
