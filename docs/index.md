@@ -9,4 +9,8 @@ This is the documentation for my amazing project.
 *[MkDocs]: A fast, simple and downright gorgeous static site generator.
 
 
+# Mindmap Test
+
+TBA
+
 
